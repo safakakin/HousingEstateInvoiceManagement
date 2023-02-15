@@ -1,0 +1,15 @@
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.AssemblyInfoInputs.cache
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.AssemblyInfo.cs
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\bin\Debug\net6.0\InvoiceManagementSystem.Entity.deps.json
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\bin\Debug\net6.0\InvoiceManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\bin\Debug\net6.0\InvoiceManagementSystem.Entity.pdb
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\bin\Debug\net6.0\Core.dll
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\bin\Debug\net6.0\Core.pdb
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.csproj.CopyComplete
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\refint\InvoiceManagementSystem.Entity.dll
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\InvoiceManagementSystem.Entity.pdb
+C:\Users\DincF\Documents\GitHub\Invoice-Management-System\src\InvoiceManagementSystem.Entity\obj\Debug\net6.0\ref\InvoiceManagementSystem.Entity.dll

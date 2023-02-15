@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{67F20D9E-924C-46BD-8968-8DA785568AA0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.src.InvoiceManagementSystem.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/InvoiceManagementSystem.Business/Services/Concrete/ApartmentManager.cs">
+    <Files>
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfApartmentDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfCardDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfBlockDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfMessageDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfPaymentDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfStyleDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.DataAccess/Concrete/EntityFramework/EfUserDal.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.Business/Validators/UserWriteDtoValidator.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.Business/BusinessAspects/SecuretOperation.cs" Line="1" Column="1" />
+      <File FileName="src/InvoiceManagementSystem.Business/Services/Concrete/ApartmentManager.cs" Line="45" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InvoiceManageSystemSln" expanded="True">
+            <Node name="src" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

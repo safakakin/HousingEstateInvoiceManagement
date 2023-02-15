@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Dto/InvoiceManagementSystem.Dto.csproj": {}
+  },
+  "projects": {
+    "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj",
+        "packagesPath": "/Users/mariami/.nuget/packages/",
+        "outputPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariami/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.1, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200-preview.22628.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Dto/InvoiceManagementSystem.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Dto/InvoiceManagementSystem.Dto.csproj",
+        "projectName": "InvoiceManagementSystem.Dto",
+        "projectPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Dto/InvoiceManagementSystem.Dto.csproj",
+        "packagesPath": "/Users/mariami/.nuget/packages/",
+        "outputPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Dto/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariami/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj": {
+                "projectPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj"
+              },
+              "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Entity/InvoiceManagementSystem.Entity.csproj": {
+                "projectPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Entity/InvoiceManagementSystem.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200-preview.22628.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Entity/InvoiceManagementSystem.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Entity/InvoiceManagementSystem.Entity.csproj",
+        "projectName": "InvoiceManagementSystem.Entity",
+        "projectPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Entity/InvoiceManagementSystem.Entity.csproj",
+        "packagesPath": "/Users/mariami/.nuget/packages/",
+        "outputPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/InvoiceManagementSystem.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariami/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj": {
+                "projectPath": "/Users/mariami/Desktop/InvoiceManagement/Invoice-Management-System-main/src/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200-preview.22628.1/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
